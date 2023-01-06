@@ -13,7 +13,7 @@ This project developed for Mobile Communication Systems subject @University of C
 Consists in develop a group of programs that use some Network elements like Wifi, Packets, Access points, MQTT, etc.
 
 #### Main Languages:
-![](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+![](https://img.shields.io/badge/Arduino%20(C++)-00979D?style=flat&logo=Arduino&logoColor=white)
 ![](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=4F74DA)
 
 ## Technologies used:

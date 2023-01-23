@@ -14,7 +14,7 @@ class Packets():
 
     def run(self):
         #cria-se um webserver
-        #no ip -> 192.168.1.156
+        #no ip -> YOUR_WIFI_IP
         #na porta -> 8000
         #suportado pelo site
         self.server = HTTPServer((self.ip, self.port), site)

@@ -18,13 +18,13 @@ Consists in develop a group of programs that use some Network elements like Wifi
 
 ## Technologies used:
 1. [Arduino ESP8266](https://www.arduino.cc/en/software)
-2. Python (PL3 e PL4)
+2. Python (only for PL3 and PL4)
     - [Version 3.9](https://www.python.org/downloads/release/python-390/)
 3. Libraries:<br>
     - [Paho_MQTT](https://pypi.org/project/paho-mqtt/) (Python)
     - [Time](), [Signal](), [Sys](), [Threading]() (Python)
     - [ESP8266WiFi](https://github.com/esp8266/Arduino) (Arduino)
-    - [Adafruit_MQTT](https://github.com/adafruit/Adafruit_MQTT_Library) (Arduino)
+    - [Adafruit_MQTT](https://github.com/adafruit/Adafruit_MQTT_Library) (Arduino, only for PL3 and PL4)
 
 
 ## Notes important to read:

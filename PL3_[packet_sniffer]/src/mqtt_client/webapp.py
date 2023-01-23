@@ -3,7 +3,7 @@ import threading
 
 class Packets():
     def __init__(self):
-        self.ip = '192.168.1.156'
+        self.ip = 'YOUR_WIFI_IP'
         self.port = 8000
 
         #a própria classe vai correr como uma thread

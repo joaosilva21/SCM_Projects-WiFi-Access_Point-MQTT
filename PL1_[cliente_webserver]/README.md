@@ -18,4 +18,4 @@ You have one way to run this project:
 
 ## Notes important to read
 - Change the *defines* "STASSID" and "STAPSK" to the credentials of your WiFi access point
-- To understand what are and how the commands work see the report
+- To understand what are and how the commands work see the statement and the report files

@@ -14,7 +14,7 @@ Simple Client and Webserver project, where the Webserver waits for some node to 
 [WARNING] Arduino IDE must be installed
 You have one way to run this project:
 - Simply connect the two Arduinos, upload the respective codes (Client and Webserver)
-- After that open de Serial Monitor to send commands
+- After that open the Serial Monitor to send commands
 
 ## Notes important to read
 - Change the *defines* "STASSID" and "STAPSK" to the credentials of your WiFi access point

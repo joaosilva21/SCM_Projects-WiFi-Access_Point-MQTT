@@ -3,7 +3,7 @@ import threading
 
 class Packets():
     def __init__(self):
-        self.ip = 'YOUR_WIFI_IP'
+        self.ip = 'YOUR_MQTT_BROKER_IP'
         self.port = 8000
 
         #a própria classe vai correr como uma thread

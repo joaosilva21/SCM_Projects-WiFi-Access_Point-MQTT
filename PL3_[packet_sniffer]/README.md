@@ -11,7 +11,7 @@
 A simple packet sniffer that captures packet in your network from the mac addresses choose. The information is sent through MQTT topics subscribed by the Python code and then are showed in a webpage.
 
 ## To run this project:
-[WARNING] Arduino IDE must be installed
+[WARNING] Arduino IDE must be installed<br>
 You have one way to run this project:
 - Turn on your MQTT broker (for example, Mosquitto)
 - Run the python code and enter the MAC addresses:

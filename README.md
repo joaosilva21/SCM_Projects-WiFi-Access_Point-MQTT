@@ -9,7 +9,7 @@
 - [Authors](#authors)
 
 ## Description
-This project developed for Mobile Communication Systems subject @University of Coimbra, Master of Informatics Security <br>
+This project developed for Mobile Communication Systems subject @University of Coimbra, Master of Cybersecurity <br>
 Consists in develop a group of programs that use some Network elements like Wifi, Packets, Access points, MQTT, etc.
 
 #### Main Languages:

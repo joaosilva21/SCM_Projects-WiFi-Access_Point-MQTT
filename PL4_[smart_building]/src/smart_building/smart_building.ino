@@ -3,9 +3,9 @@
 #include <Adafruit_MQTT.h>
 #include <Adafruit_MQTT_Client.h>
 
-#define SSid "GalaxyA21s24AA" //"Vodafone-6AA82A"
-#define PASS "zuyu4125" //"K2s37UkxWJ"
-#define server_ip "192.168.115.54" //"192.168.1.156"
+#define SSid "GalaxyA21s24AA"
+#define PASS "zuyu4125"
+#define server_ip "YOUR_MQTT_IP"
 #define port 1883
 #define topic_to_s_light_update "mqtt/light/from_sensor/B"
 #define topic_to_s_avac_update "mqtt/avac/from_sensor/B"

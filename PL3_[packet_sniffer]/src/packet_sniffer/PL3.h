@@ -14,7 +14,7 @@
 #define SSid "AndroidAP" //"Vodafone-6AA82A"
 #define PASS "1234567890" //"K2s37UkxWJ"
 
-#define server_ip "192.168.43.23"
+#define server_ip "YOUR_MQTT_BROKER_IP"
 #define port 1883
 
 extern WiFiClient client;

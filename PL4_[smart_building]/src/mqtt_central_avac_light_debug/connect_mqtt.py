@@ -5,7 +5,7 @@ from paho.mqtt import client as mqtt_client
 class MQTT:
     def __init__(self):
         self.port = 1883
-        self.broker = '192.168.115.54' #'192.168.1.156'
+        self.broker = 'YOUR_MQTT_IP'
         self.topic_to_receive_connect_from_sensor = "mqtt/connect/from_sensor/#"
         self.topic_to_receive_light_from_sensor = "mqtt/light/from_sensor/#"
         self.topic_to_receive_avac_from_sensor = "mqtt/avac/from_sensor/#"

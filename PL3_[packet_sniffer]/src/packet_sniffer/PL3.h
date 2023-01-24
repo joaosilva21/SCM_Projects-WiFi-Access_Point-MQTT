@@ -11,8 +11,8 @@
 #include <Adafruit_MQTT.h>
 #include <Adafruit_MQTT_Client.h>
 
-#define SSid "AndroidAP" //"Vodafone-6AA82A"
-#define PASS "1234567890" //"K2s37UkxWJ"
+#define SSid "AndroidAP" 
+#define PASS "1234567890" 
 
 #define server_ip "YOUR_MQTT_BROKER_IP"
 #define port 1883

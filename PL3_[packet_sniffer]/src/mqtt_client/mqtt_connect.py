@@ -8,7 +8,7 @@ class MQTT:
     #é aqui que também temos o ponto de partida da classe
     def __init__(self):
         #ip do broker a conectar
-        self.broker = '192.168.1.156'
+        self.broker = 'YOUR_MQTT_BROKER_IP'
         #porta do broker a conectar
         self.port = 1883
         #topico ao qual o cliente mqtt vai subscrever para receber informaçao do arduino

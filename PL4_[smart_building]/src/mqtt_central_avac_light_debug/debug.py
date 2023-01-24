@@ -1,7 +1,7 @@
 
 from paho.mqtt import client as mqtt_client
 
-broker = '192.168.115.54' #'192.168.1.156'
+broker = 'YOUR_MQTT_IP'
 port = 1883
 topic_to_receive = "mqtt/#"
 client_id = "SCM_PL4_debug" 

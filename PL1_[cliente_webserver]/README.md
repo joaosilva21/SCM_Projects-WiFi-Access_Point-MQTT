@@ -11,7 +11,7 @@
 Simple Client and Webserver project, where the Webserver waits for some node to connect as Client. Then each Arduino communicates with the other sending some commands to do some actions.
 
 ## To run this project:
-[WARNING] Arduino IDE must be installed
+[WARNING] Arduino IDE must be installed<br>
 You have one way to run this project:
 - Simply connect the two Arduinos, upload the respective codes (Client and Webserver)
 - After that open the Serial Monitor to send commands
